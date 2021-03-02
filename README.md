@@ -6,7 +6,7 @@ The project is developed using HTML , CSS ,JS.
 
 ## DEMO
 
-Demo link:-samartheshacharekar.epizy.com
+[Demo link](samartheshacharekar.epizy.com)
 
 
 ## Contributing
